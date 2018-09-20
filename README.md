@@ -7,3 +7,5 @@
 	   * * * * * * * * * * * * * * * * * * * * * * * */
      
      Simple Calendar program implemented using C
+     
+     This program is compiled using TurboC compiler 
